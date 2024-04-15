@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskBoard.WebApp
+build_property.RootNamespace = TaskBoard.WebApp
+build_property.ProjectDir = /home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Boards/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9hcmRzL0FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Home/Error401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FcnJvcjQwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Home/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FcnJvcjQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Shared/_TaskPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19UYXNrUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Tasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Tasks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Tasks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Tasks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Tasks/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/Tasks/_TaskFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvX1Rhc2tGb3JtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

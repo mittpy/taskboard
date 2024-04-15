@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/TaskBoard.WebApp.csproj": {}
+  },
+  "projects": {
+    "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.Data/TaskBoard.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.Data/TaskBoard.Data.csproj",
+        "projectName": "TaskBoard.Data",
+        "projectPath": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.Data/TaskBoard.Data.csproj",
+        "packagesPath": "/home/mirena/.nuget/packages/",
+        "outputPath": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mirena/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/TaskBoard.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/TaskBoard.WebApp.csproj",
+        "projectName": "TaskBoard.WebApp",
+        "projectPath": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/TaskBoard.WebApp.csproj",
+        "packagesPath": "/home/mirena/.nuget/packages/",
+        "outputPath": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mirena/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.Data/TaskBoard.Data.csproj": {
+                "projectPath": "/home/mirena/Documents/containers-and-cloud/infrastructure-as-a-code/08-Exercise-IaC-and-Monitoring-Resources/03.Azure-Web-App-with-Database-TaskBoard/TaskBoard.Data/TaskBoard.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
